@@ -1,1 +1,1 @@
-# tkinter-playground
+# Tkinter Playground
